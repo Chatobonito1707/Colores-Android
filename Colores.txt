@@ -1,0 +1,5 @@
+Los colores del logotipo son los siguientes:
+
+Color primario: un azul claro.
+Color primario oscuro: un tono más oscuro de azul.
+Color de acento: un rojo coral
